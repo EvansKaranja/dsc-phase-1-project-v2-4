@@ -14,7 +14,7 @@ In the folder `zippedData` are movie datasets from:
 
 ### Key Questions Answered
 1. Which are the best performing movies.
-2. Identify the relationship between production and net profit
+2. Identify the relationship between production budget and net profit
 3. Identify the most ideal profit margin to target for, for a movie to be successful.
 4. Who are the key competitors in the field
 
